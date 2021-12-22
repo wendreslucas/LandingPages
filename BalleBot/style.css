@@ -31,11 +31,8 @@ body {
     font-size: 18px;
     color: rgba(236, 214, 196, 1);    
     transition: .3s;     
-    cursor: pointer;
-   
+    cursor: pointer;   
 }
-
-
 
 .conteudo {
     border-top: 0.4px solid #FFF2E7;

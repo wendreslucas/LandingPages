@@ -29,13 +29,13 @@ body {
     font-family: 'Sarala', sans-serif;
     font-weight: 400;
     font-size: 18px;
-    color: rgba(255, 242, 231, 1);
-    transition: .3s;
+    color: rgba(236, 214, 196, 1);    
+    transition: .3s;     
+    cursor: pointer;
+   
 }
 
-.cabecalho__navegacao__icone:hover {
-    background-color:#2F2325;
-}
+
 
 .conteudo {
     border-top: 0.4px solid #FFF2E7;
@@ -84,6 +84,7 @@ body {
 
 .conteudo__principal__botao:hover {
     background-color: #2F2325;
+    color: rgba(236, 214, 196, 1);
 }
 
 .conteudo__principal__imagem{
